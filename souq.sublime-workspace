@@ -1,0 +1,989 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"search",
+				"search-top	(search-top.blade.php)"
+			],
+			[
+				"m",
+				"membership"
+			],
+			[
+				"shop",
+				"shopping_id"
+			],
+			[
+				"card",
+				"cardnumber"
+			],
+			[
+				"trac",
+				"tracking_number"
+			],
+			[
+				"weight",
+				"weight_unit"
+			],
+			[
+				"weigh",
+				"weight_unit"
+			],
+			[
+				"track",
+				"tracking_number"
+			],
+			[
+				"fin",
+				"find_use	(Default (Windows).sublime-keymap)"
+			],
+			[
+				"if",
+				"ife	blade-if_else"
+			],
+			[
+				"pack",
+				"pacakges"
+			],
+			[
+				"s",
+				"save"
+			],
+			[
+				"wher",
+				"where('status','Order"
+			],
+			[
+				"rout",
+				"route	L5 Route "
+			],
+			[
+				"up",
+				"$uploadcount〔variable〕"
+			],
+			[
+				"max_w",
+				"max_weight_unit"
+			],
+			[
+				"extra",
+				"extra_packing"
+			],
+			[
+				"dis",
+				"discard_shoeboxes"
+			],
+			[
+				"disc",
+				"discard_magazine"
+			],
+			[
+				"discar",
+				"discard_letters"
+			],
+			[
+				"new",
+				"new_packages"
+			],
+			[
+				"shopp",
+				"shopping_id"
+			],
+			[
+				"merc",
+				"merchant"
+			],
+			[
+				"my_auc",
+				"my_auction_email"
+			],
+			[
+				"Shipp",
+				"ShippingPreferences"
+			],
+			[
+				"Ship",
+				"ShippingPreferences"
+			],
+			[
+				"take",
+				"take_photo"
+			],
+			[
+				"order",
+				"order_number"
+			],
+			[
+				"User",
+				"UserOrder"
+			],
+			[
+				"total",
+				"totalamount"
+			],
+			[
+				"Op",
+				"OperatorC"
+			],
+			[
+				"order_",
+				"order_number"
+			],
+			[
+				"orde",
+				"order_number"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"cancel",
+				"cancel_condition"
+			],
+			[
+				"auctio",
+				"auction_type"
+			],
+			[
+				"O",
+				"OperatorA"
+			],
+			[
+				"w",
+				"weight_unit"
+			],
+			[
+				"my",
+				"my_auction_id"
+			],
+			[
+				"Ses",
+				"Session::keep	Reflash Only a Subset of Flash Data"
+			],
+			[
+				"Config",
+				"Config::has	Determine if the given configuration value exists."
+			],
+			[
+				"array",
+				"array_column"
+			],
+			[
+				"view",
+				"view	L5 View "
+			],
+			[
+				"add",
+				"address1"
+			],
+			[
+				"pass",
+				"postBillingAddress"
+			],
+			[
+				"shipp",
+				"shippingaddress"
+			],
+			[
+				"shi",
+				"shippingaddress"
+			],
+			[
+				"same",
+				"sameaddress"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sea",
+				"Searching"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel route:list ",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"rout",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"route:",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Blade @section"
+			],
+			[
+				"instg",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"Convert Case: Lower Case"
+			],
+			[
+				"install packge",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CodeFormatter: Format Code"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 209.0,
+		"history":
+		[
+			"artisan",
+			"php artisan",
+			"artisan",
+			"glue help",
+			"glue",
+			"packages",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/souq",
+		"/E/xampp/htdocs/souq/app",
+		"/E/xampp/htdocs/souq/app/Console",
+		"/E/xampp/htdocs/souq/app/Console/Commands",
+		"/E/xampp/htdocs/souq/app/Events",
+		"/E/xampp/htdocs/souq/app/Exceptions",
+		"/E/xampp/htdocs/souq/app/Http",
+		"/E/xampp/htdocs/souq/app/Http/Controllers",
+		"/E/xampp/htdocs/souq/app/Http/Middleware",
+		"/E/xampp/htdocs/souq/app/Http/Requests",
+		"/E/xampp/htdocs/souq/app/Jobs",
+		"/E/xampp/htdocs/souq/app/Listeners",
+		"/E/xampp/htdocs/souq/app/Policies",
+		"/E/xampp/htdocs/souq/app/Providers",
+		"/E/xampp/htdocs/souq/bootstrap",
+		"/E/xampp/htdocs/souq/config",
+		"/E/xampp/htdocs/souq/public",
+		"/E/xampp/htdocs/souq/resources",
+		"/E/xampp/htdocs/souq/resources/views/layouts",
+		"/E/xampp/htdocs/souq/resources/views/partials",
+		"/E/xampp/htdocs/souq/resources/views/user"
+	],
+	"file_history":
+	[
+		"/E/xampp/htdocs/souq/app/Listing.php",
+		"/e/xampp/htdocs/souq/resources/views/auth/signin.blade.php",
+		"/E/xampp/htdocs/souq/app/Http/routes.php",
+		"/E/xampp/htdocs/souq/resources/views/post-ads.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/user/all-ads.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/user/home.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/ad.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/category.blade.php",
+		"/E/xampp/htdocs/souq/app/Http/Controllers/UserController.php",
+		"/E/xampp/htdocs/souq/resources/views/partials/header.blade.php",
+		"/E/xampp/htdocs/souq/app/Role.php",
+		"/E/xampp/htdocs/souq/app/SubCategory.php",
+		"/E/xampp/htdocs/souq/app/User.php",
+		"/E/xampp/htdocs/souq/app/City.php",
+		"/E/xampp/htdocs/souq/app/Category.php",
+		"/E/xampp/htdocs/souq/app/Http/Controllers/HomeController.php",
+		"/E/xampp/htdocs/souq/app/Http/Controllers/AuthController.php",
+		"/E/xampp/htdocs/souq/resources/views/partials/user-nav.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/auth/signup.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/home.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/auth/signin.blade.php",
+		"/E/xampp/htdocs/souq/app/Http/Kernel.php",
+		"/E/xampp/htdocs/souq/.env",
+		"/E/xampp/htdocs/souq/resources/views/auth/forgot.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/partials/footer.blade.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/xampp/htdocs/souq/resources/views/layouts/main.blade.php",
+		"/E/xampp/htdocs/souq/composer.json",
+		"/E/xampp/htdocs/souq/config/app.php",
+		"/E/xampp/htdocs/souq/resources/views/partials/mainpage.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/partials/search-top.blade.php",
+		"/E/xampp/htdocs/souq/resources/views/layouts/app.blade.php",
+		"/E/xampp/htdocs/tss/app/Membership.php",
+		"/E/xampp/htdocs/tss/app/User.php",
+		"/E/xampp/htdocs/tss/resources/views/partials/leftbar.blade.php",
+		"/E/xampp/htdocs/tss/app/Http/routes.php",
+		"/E/xampp/htdocs/tss/app/Http/Controllers/UserController.php",
+		"/E/xampp/htdocs/tss/resources/views/user/membership.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/notifications.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/ledger.blade.php",
+		"/E/xampp/htdocs/tss/app/Http/Controllers/TransController.php",
+		"/E/xampp/htdocs/tss/app/Http/Controllers/AuthController.php",
+		"/E/xampp/htdocs/tss/resources/views/user/signuppayment.blade.php",
+		"/E/xampp/htdocs/tss/app/Ledger.php",
+		"/E/xampp/htdocs/tss/config/variables.php",
+		"/E/xampp/htdocs/tss/resources/views/operator/shipment.blade.php",
+		"/e/xampp/htdocs/tss/app/Http/routes.php",
+		"/e/xampp/htdocs/tss/app/Http/Controllers/ShopController.php",
+		"/e/xampp/htdocs/tss/app/Http/Controllers/UserController.php",
+		"/E/xampp/htdocs/tss/resources/views/operator/package-direct-edit.blade.php",
+		"/E/xampp/htdocs/tss/app/Http/Controllers/ShopController.php",
+		"/E/xampp/htdocs/tss/resources/views/operator/package-edit.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/layouts/master.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/paymentmethod.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/shippingpreferences.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/receivedproducts.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/cart.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/admin/email.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/admin.blade.php",
+		"/E/xampp/htdocs/tss/app/Http/Controllers/AppController.php",
+		"/e/xampp/htdocs/tss/resources/views/operatorC.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/admin/emails.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operator/update-order.blade.php",
+		"/E/xampp/htdocs/tss/app/Email.php",
+		"/E/xampp/htdocs/tss/resources/views/user/billingaddress.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/shippingaddress.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/auth/signup.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/profile.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/layouts/register.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/partials/leftbar.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/partials/controlbar.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/dashboard.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/operatorB.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/operatorC.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/dashboard.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/operator/update-order.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/operatorA.blade.php",
+		"/E/xampp/htdocs/tss/app/Notification.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/e/xampp/htdocs/tss/resources/views/operatorA.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operator/package-direct-edit.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operator/package-edit.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operator/packages.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operatorB.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operator/shipment.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/orderview.blade.php",
+		"/E/xampp/htdocs/tss/app/Shipment.php",
+		"/e/xampp/htdocs/tss/resources/views/user/shippingpreferences.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/userview.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/signuppayment.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/shopping.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/shopping-auction.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/shippingaddress.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/receivedproducts.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/profile.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/phone.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/paymentmethod.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/cart-edit.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/user/billingaddress.blade.php",
+		"/e/xampp/htdocs/tss/resources/views/operator/verify-item.blade.php",
+		"/e/xampp/htdocs/tss/vendor/hamcrest/hamcrest-php/generator/FactoryParameter.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/E/xampp/htdocs/tss/app/Http/Controllers/test.php",
+		"/E/xampp/htdocs/tss/resources/views/partials/header.blade.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/Glue/messages/help.txt",
+		"/E/xampp/htdocs/tss/app/Shopping.php",
+		"/E/xampp/htdocs/tss/app/ShippingAddress.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/E/xampp/htdocs/tss/resources/views/partials/footer.blade.php",
+		"/E/xampp/htdocs/tss/app/Package.php",
+		"/E/xampp/htdocs/tss/app/UserOrder.php",
+		"/E/xampp/htdocs/tss/vendor/symfony/var-dumper/Cloner/AbstractCloner.php",
+		"/E/xampp/htdocs/tss/vendor/webmozart/assert/src/Assert.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/E/xampp/htdocs/tss/storage/framework/views/5d48d0647b38c10e0fa2440ba78de29aecec238a.php",
+		"/E/xampp/htdocs/tss/resources/views/shippingpreferencesview.blade.php",
+		"/E/xampp/htdocs/tss/storage/framework/views/ea5f045c0c45277d133896defcffb3a61f5315b8.php",
+		"/E/xampp/htdocs/tss/public/src/css/main.css",
+		"/E/xampp/htdocs/tss/resources/views/user/cart-edit.blade.php",
+		"/E/xampp/htdocs/tss/resources/views/user/shopping.blade.php",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Ayaz/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"e:\\xampp\\htdocs\\souq\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\app",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss\\",
+			"e:\\xampp\\htdocs\\tss\\resources",
+			"e:\\xampp\\htdocs\\tss",
+			"e:\\xampp\\htdocs\\roles",
+			"D:\\xampp\\htdocs\\iwjobs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"placeholder",
+			"placehodl",
+			"select",
+			"forgot",
+			"getuserads",
+			"user-ads",
+			"\n		",
+			"shopping",
+			"submit",
+			"upload",
+			"seller",
+			"submit",
+			"flash",
+			"first",
+			"firstname",
+			"route('/')",
+			"index.html",
+			"signup.html",
+			"login.html",
+			"post-ads.html",
+			"index.html",
+			"login.html",
+			"post-ads.html",
+			"sponsored produ",
+			".jpg",
+			"\"images/",
+			"col-md-6",
+			"foreach",
+			"() ",
+			"membership",
+			"members",
+			"function",
+			"<input type=\"hidden\"",
+			"package",
+			"signup",
+			"postsignup",
+			"card",
+			"signup-payment",
+			"memberships",
+			"autoload.php",
+			"op-packages",
+			"route(",
+			"op-packages",
+			"status",
+			"->status",
+			"postShoppingAuction",
+			"->status",
+			"notification",
+			"select",
+			"shopcontroller.php",
+			"e:\\xampp\\htdocs\\tss\\",
+			"usercontroller.php",
+			"</option>",
+			"\">",
+			"<option value=",
+			"confirm",
+			"admin.email",
+			"getadminpage",
+			"route('order",
+			"{id",
+			"profile",
+			"op-cancel-order",
+			"emails",
+			"route",
+			"paginate",
+			"profile",
+			"validator",
+			"form-groups",
+			"*",
+			"error",
+			"shipping",
+			"firstname",
+			"error",
+			"email",
+			"validator",
+			"profile",
+			"blacklight",
+			"Layout Options",
+			"Order Cancelled",
+			"Details",
+			"status",
+			"Operator C",
+			"Operator B",
+			"OperatorA",
+			"Operator A",
+			"receive",
+			">\n",
+			"amount1",
+			"new",
+			"col-md-9",
+			"dd(",
+			"dump(",
+			"$order",
+			"operatorc",
+			"left",
+			"Shipping",
+			"request",
+			"package",
+			"user_id",
+			"$member",
+			"user_id",
+			"ld",
+			"test",
+			"here",
+			"test",
+			"ctrl+shift+r",
+			"label",
+			"three",
+			"Request",
+			"photos",
+			"'];",
+			"photos",
+			"col-md-6",
+			"'Yes', ( ",
+			"Form::checkbox('",
+			" == 'Yes' ? true : false ))",
+			"shippingprefere",
+			"shipping",
+			"`",
+			"getshipping",
+			"take photo",
+			">\n",
+			"dashboardc",
+			"in ",
+			"dashboard",
+			"route(",
+			"redirect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"name",
+			"{{ route('signup') }}",
+			"{{ route('signin') }}",
+			"{{ route('post-ads') }}",
+			"{{ route('/') }}",
+			".jpg') }}",
+			"{{ URL::to('src/images/",
+			"\",",
+			"\" => \"",
+			"",
+			"col-md-3",
+			"",
+			"=",
+			"ShopContr",
+			"shipping",
+			"",
+			"$member",
+			"$package",
+			"[\"",
+			"$order",
+			"shopping",
+			"user",
+			"$user",
+			"item_name",
+			"$shopping->",
+			"shopping",
+			"",
+			"$usr",
+			"default-user.png",
+			" => \"",
+			"\",",
+			"",
+			" => \"",
+			"\",",
+			"",
+			"b_",
+			"billing",
+			"",
+			"Billing",
+			"billing",
+			"s_",
+			"b_",
+			"$billing",
+			"",
+			"\"s_",
+			"\"form-group row\"",
+			"bootstrap",
+			"label",
+			"$job",
+			"$job[0]",
+			"$job",
+			"td>",
+			"jobs."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 116.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 58.0
+	},
+	"pinned_build_system": "",
+	"project": "souq.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"post-ads",
+				"resources\\views\\post-ads.blade.php"
+			],
+			[
+				"left",
+				"resources\\views\\partials\\leftbar.blade.php"
+			],
+			[
+				"leftbar",
+				"resources\\views\\partials\\leftbar.blade.php"
+			],
+			[
+				"signuppayment",
+				"resources\\views\\user\\signuppayment.blade.php"
+			],
+			[
+				"shipment",
+				"resources\\views\\operator\\shipment.blade.php"
+			],
+			[
+				"leftbar.",
+				"resources\\views\\partials\\leftbar.blade.php"
+			],
+			[
+				"cart.",
+				"resources\\views\\user\\cart.blade.php"
+			],
+			[
+				"payment",
+				"resources\\views\\user\\paymentmethod.blade.php"
+			],
+			[
+				"email.b",
+				"resources\\views\\admin\\email.blade.php"
+			],
+			[
+				"emails.",
+				"resources\\views\\admin\\emails.blade.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"billing",
+				"resources\\views\\user\\billingaddress.blade.php"
+			],
+			[
+				"shippinga",
+				"resources\\views\\user\\shippingaddress.blade.php"
+			],
+			[
+				"signup",
+				"resources\\views\\auth\\signup.blade.php"
+			],
+			[
+				"prof",
+				"resources\\views\\user\\profile.blade.php"
+			],
+			[
+				"register",
+				"resources\\views\\layouts\\register.blade.php"
+			],
+			[
+				"opera",
+				"resources\\views\\operatorC.blade.php"
+			],
+			[
+				"oper",
+				"resources\\views\\operatorB.blade.php"
+			],
+			[
+				"operator",
+				"resources\\views\\operatorA.blade.php"
+			],
+			[
+				"operat",
+				"resources\\views\\operatorC.blade.php"
+			],
+			[
+				"ea5f045c0c45277d133896defcffb3a61f5315b8",
+				"storage\\framework\\views\\ea5f045c0c45277d133896defcffb3a61f5315b8.php"
+			],
+			[
+				"cart.bl",
+				"resources\\views\\user\\cart.blade.php"
+			],
+			[
+				"operatora",
+				"resources\\views\\operatorA.blade.php"
+			],
+			[
+				"order-receive-edit",
+				"resources\\views\\operator\\order-receive-edit.blade.php"
+			],
+			[
+				"shopping-update",
+				"resources\\views\\operator\\shopping-update.blade.php"
+			],
+			[
+				"cart.blade.php",
+				"resources\\views\\user\\cart.blade.php"
+			],
+			[
+				"dashboard",
+				"resources\\views\\user\\dashboard.blade.php"
+			],
+			[
+				"cart.b",
+				"resources\\views\\user\\cart.blade.php"
+			],
+			[
+				"order",
+				"resources\\views\\operator\\order-receive-edit.blade.php"
+			],
+			[
+				"shopping",
+				"resources\\views\\operator\\shopping-update.blade.php"
+			],
+			[
+				"card.blade.php",
+				"resources\\views\\user\\card.blade.php"
+			],
+			[
+				"dash",
+				"resources\\views\\user\\dashboard.blade.php"
+			],
+			[
+				"dashb",
+				"resources\\views\\user\\dashboard.blade.php"
+			],
+			[
+				"index.html",
+				"Unify-v1.9.4\\HTML\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"where",
+				"where"
+			],
+			[
+				"userorder",
+				"UserOrder"
+			],
+			[
+				"UserOrder",
+				"UserOrder"
+			],
+			[
+				"Shopping",
+				"Shopping"
+			],
+			[
+				"",
+				"AbstractCloner"
+			]
+		],
+		"width": 857.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

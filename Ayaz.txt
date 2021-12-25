@@ -1,0 +1,5 @@
+$ composer create-project laravel/laravel souq 5.2.41
+
+$ php artisan make:auth
+
+$ php artisan migrate
